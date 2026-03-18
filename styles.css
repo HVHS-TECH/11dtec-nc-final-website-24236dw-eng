@@ -1,7 +1,6 @@
 head, body{ 
 background-color: rgb(255, 255, 255);
 padding:30 px;
-text-align: center; 
--moz-box-align: left;
+text-align: center;
 font-size: 35 px;
 }
