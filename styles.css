@@ -1,6 +1,9 @@
+head, body{ 
+background-color: rgb(255, 255, 255);
+}
 head, body{
   background-color: #666;
-  padding-border-top-left-radius:30px;
+  padding:30 px;
   text-align: center;
-  font-size: 35px;
+  font-size: 35 px;
 }
