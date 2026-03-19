@@ -1,9 +1,42 @@
 head, body{ 
 background-color: rgb(255, 255, 255);
 }
+nav {
+text-align: right;
+background-color: lawngreen
+padding: 10px;
+}
 
-nav {text-align: right;}
+h1{text-align: center;}
 
-h1 {text-align: center;}
+p {text-align: center;}
 
-p { text-align: left; }
+.container{
+    position: relative;
+}
+.floating-img{
+    position: fixed;
+
+    top: 20px;
+    z-index: 9999;
+   
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
