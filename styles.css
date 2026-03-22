@@ -1,11 +1,6 @@
 head, body{ 
 background-color: rgb(255, 255, 255);
 }
-nav {
-text-align: right;
-background-color: lawngreen
-padding: 10px;
-}
 
 h1{text-align: center;}
 
