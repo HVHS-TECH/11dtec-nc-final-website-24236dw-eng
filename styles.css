@@ -66,14 +66,14 @@ color:#FFF9FB;
     text-align: left;
 }
 a:link {
-    color:;
+    color:#308CC6;
 }
 a:visited {
-    color:#c63099;
+    color:#308CC6;
 }
 a:active {
-    color:#a0c630;
+    color:#308CC6;
 }
 a:hover {
-  color: red;
+  color: #308CC6;
 }
