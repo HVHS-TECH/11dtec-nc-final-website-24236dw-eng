@@ -9,10 +9,11 @@ p {text-align: center;}
 .container{
     position: relative;
 }
-.floating-img {
-  position: absolute;
-  top: 10px;
-  left: 10px;
+.floating-img{
+    position: fixed;
+    top: -10px;
+    left: -120px;
+    z-index: 999;
 }
 nav{ 
 text-align: right;
@@ -63,9 +64,4 @@ color:#FFF9FB;
     width:300px;
     length:200px;
     text-align: left;
-}
-.footballers-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
