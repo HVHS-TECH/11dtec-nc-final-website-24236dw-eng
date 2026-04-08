@@ -17,8 +17,8 @@ p {text-align: center;}
 nav{ 
 text-align: right;
 }
-.title {
-text-color:#308CC5;
+h1 {
+color:#308CC5;
 }
 .Footballer {
     background-color:rgb(0, 4, 255);
