@@ -69,7 +69,7 @@ color:#FFF9FB;
     justify-content: space-between;
     align-items: center;
 }
-.logo {
-  width: 220px;
-  margin: 100px;
+.floating-img {
+  width: 400px; 
+  height: 300px;
 }
