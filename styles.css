@@ -65,16 +65,15 @@ color:#FFF9FB;
     length:200px;
     text-align: left;
 }
-.link {
-    color:red;
-    background-color: #26282C;
+a:link {
+    color:;
 }
-.visted {
+a:visited {
     color:#c63099;
 }
-.active {
+a:active {
     color:#a0c630;
 }
-.hover {
+a:hover {
   color: red;
 }
