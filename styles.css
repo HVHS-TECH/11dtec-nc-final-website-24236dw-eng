@@ -74,3 +74,6 @@ color:#FFF9FB;
 .active {
     color:#a0c630;
 }
+.hover {
+  color: red;
+}
