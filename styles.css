@@ -69,3 +69,7 @@ color:#FFF9FB;
     justify-content: space-between;
     align-items: center;
 }
+.logo {
+  width: 220px;
+  margin: 100px;
+}
