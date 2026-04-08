@@ -10,8 +10,9 @@ p {text-align: center;}
     position: relative;
 }
 .floating-img{
-    position: fixed;
-    top: 20px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
     z-index: 999;
 }
 nav{ 
@@ -69,7 +70,3 @@ color:#FFF9FB;
     justify-content: space-between;
     align-items: center;
 }
-.floating-img {
-  width: 500px; 
-  height: 300px;
-}`
