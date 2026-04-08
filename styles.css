@@ -10,10 +10,9 @@ p {text-align: center;}
     position: relative;
 }
 .floating-img{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    z-index: 999;
+position: absolute;
+  top: 10px;
+  left: 10px;
 }
 nav{ 
 text-align: right;
