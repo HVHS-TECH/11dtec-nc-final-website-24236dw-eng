@@ -67,12 +67,10 @@ color:#FFF9FB;
 }
 .link {
     color:red;
-      background-color: transparent;
-  text-decoration: none;
 }
 .visted {
-    color:#c63030;
+    color:#c63099;
 }
 .active {
-    color:#c63030;
+    color:#a0c630;
 }
