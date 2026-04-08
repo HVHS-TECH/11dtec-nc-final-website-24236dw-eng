@@ -65,3 +65,14 @@ color:#FFF9FB;
     length:200px;
     text-align: left;
 }
+.link {
+    color:red;
+      background-color: transparent;
+  text-decoration: none;
+}
+.visted {
+    color:#c63030;
+}
+.active {
+    color:#c63030;
+}
