@@ -69,3 +69,9 @@ color:#FFF9FB;
     justify-content: space-between;
     align-items: center;
 }
+.logo-box {
+    background-color: #26282C;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+} 
