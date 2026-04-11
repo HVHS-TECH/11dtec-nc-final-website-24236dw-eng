@@ -12,7 +12,7 @@ p {text-align: center;}
 .floating-img{
     position: fixed;
     top: -10px;
-    left: -11   0px;
+    left: -110px;
     z-index: 999;
 }
 nav{ 
