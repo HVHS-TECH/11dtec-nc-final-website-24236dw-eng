@@ -77,3 +77,43 @@ a:hover {
 a:active {
   color: #FFF9FB;
 }
+.History {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:300px;
+    length:200px;
+    text-align: center;
+}
+.Historyy {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:300px;
+    length:200px;
+    text-align: center;
+}
+.Historyyy {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:300px;
+    length:200px;
+    text-align: center;
+}
+    .Historyyyy {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:300px;
+    length:200px;
+    text-align: left;
+    }
