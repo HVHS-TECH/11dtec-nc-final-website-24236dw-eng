@@ -39,6 +39,8 @@ color:#FFF9FB;
     width:250px;
     text-align: center;
     gap: 10px;
+    position: relative;
+    left: -25px;
 }
 .Footballers {
     background-color:#26282C;
@@ -49,6 +51,8 @@ color:#FFF9FB;
     width:250px;
     text-align: center;
     gap: 10px;
+    position: relative;
+    left: -29px;
 }
 .Footballerss {
     background-color:#26282C;
@@ -59,6 +63,8 @@ color:#FFF9FB;
     width:250px;
     text-align: center;
     gap: 10px;
+    position: relative;
+    left: -29px;
 }
     .Footballersss {
     background-color:#26282C;
@@ -69,6 +75,8 @@ color:#FFF9FB;
     width:250px;
     text-align: center;
     gap: 10px;
+    position: relative;
+    left: -29px;
 }
 a:link {
     color: #308CC6;
