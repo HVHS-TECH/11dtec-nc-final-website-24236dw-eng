@@ -139,3 +139,52 @@ a:active {
     position: relative;
     left: -29px;
     }
+    .International {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
+    }
+    .Money {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
+    }
+    .Fifa {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
+    }
+    .Changed {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
+    }
+        
