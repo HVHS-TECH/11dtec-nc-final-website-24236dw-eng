@@ -6,8 +6,6 @@ h1{text-align: center;}
 
 p {text-align: center;}
 
-ul {text-align: center;}
-
 .container{
     position: relative;
 }
@@ -33,7 +31,8 @@ p {
 color:#FFF9FB;
 }
 ul {
-color:#FFF9FB;}
+color:#FFF9FB;
+}
 .Footballer {
     background-color:#26282C;
     color:white;
