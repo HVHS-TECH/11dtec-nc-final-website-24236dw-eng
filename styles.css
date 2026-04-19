@@ -103,10 +103,11 @@ gap: 20px;
     background-color:#26282C;
     border:2px solid black;
     padding:20px;
-    width:350px;
+    width:370px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    left: -29px;
 }
 
     
