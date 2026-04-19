@@ -100,15 +100,14 @@ flex-wrap: wrap;
 gap: 20px;
 }
 .box {
-    color:white;
+     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
     padding:20px;
     width:275px;
-    text-align: center;
-    gap: 2px;
-    position: relative;
-    background-color:#26282C;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 90px;
 }
     
 
