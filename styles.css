@@ -113,7 +113,7 @@ gap: 20px;
     background-color:#26282C;
     border:2px solid black;
     padding:20px;
-    width:370px;
+    width: 250px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -122,12 +122,38 @@ gap: 20px;
     background-color:#26282C;
     border:2px solid black;
     padding:20px;
-    width:370px;
+    width:250px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
 }
-.
+.Sphere {
+    background-color:#26282C;
+    border:2px solid black;
+    padding:20px;
+    width:250px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.Synthetic {
+    background-color:#26282C;
+    border:2px solid black;
+    padding:20px;
+    width:250px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.Modern {
+    background-color:#26282C;
+    border:2px solid black;
+    padding:20px;
+    width:250px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
 
 
 
