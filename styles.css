@@ -93,7 +93,6 @@ a:hover {
 a:active {
   color: #FFF9FB;
 }
-
 .container {
 display: flex;
 flex-wrap: wrap;
@@ -112,53 +111,77 @@ gap: 20px;
 .Early {
     background-color:#26282C;
     border:2px solid black;
+    margin:20px;
     padding:20px;
-    width:250px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
 }
 .Richard {
     background-color:#26282C;
     border:2px solid black;
+    margin:20px;
     padding:20px;
-    width:250px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
 }
 .Sphere {
     background-color:#26282C;
     border:2px solid black;
+    margin:20px;
     padding:20px;
-    width:250px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
 }
 .Synthetic {
     background-color:#26282C;
     border:2px solid black;
+    margin:20px;
     padding:20px;
-    width:250px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
 }
 .Modern {
     background-color:#26282C;
     border:2px solid black;
+    margin:20px;
     padding:20px;
-    width:250px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
+}
+.New {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:275px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
 }
 
 
 
     
+ padding:20px;
+    width:275px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 
 
-
-        
