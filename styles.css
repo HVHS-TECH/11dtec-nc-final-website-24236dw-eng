@@ -104,7 +104,8 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
-}
+    display:flex;
+    }
     .Across {
     background-color:#26282C;
     color:white;
@@ -115,6 +116,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
     .Banned {
     background-color:#26282C;
@@ -126,6 +128,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
     .Rules {
     background-color:#26282C;
@@ -137,6 +140,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
     .International {
     background-color:#26282C;
@@ -148,6 +152,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
     .Money {
     background-color:#26282C;
@@ -159,6 +164,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
     .Fifa {
     background-color:#26282C;
@@ -170,6 +176,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
     .Changed {
     background-color:#26282C;
@@ -181,6 +188,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
+    display:flex;
     }
 
 
