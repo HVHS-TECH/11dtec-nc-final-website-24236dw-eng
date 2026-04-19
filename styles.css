@@ -106,11 +106,12 @@ gap: 20px;
     padding:20px;
     width:275px;
     text-align: center;
-    gap: 10px;
+    gap: 2px;
     position: relative;
-background-color:#26282C;
+    background-color:#26282C;
+}
+    
 
 
 
         
-       Add this if i need in under all of the positions left: -29px;
