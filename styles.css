@@ -212,8 +212,14 @@ gap: 20px;
     position: relative;
     left: -29px;
 }
-.Leagues{
+.Leagues {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:550px;
 text-align:center;
+justify-content: center;
 }
 
 
