@@ -3,7 +3,10 @@ background-color: #272768
 }
 
 
-h1{text-align: center;}
+h1{
+text-align: center;
+width : 100%;
+}
 
 p {text-align: center;}
 
