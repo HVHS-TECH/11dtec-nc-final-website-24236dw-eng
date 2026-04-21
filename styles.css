@@ -142,6 +142,16 @@ gap: 20px;
     position: relative;
     left: -29px;
 }
+.Tango {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:275px;
+    text-align: center;
+    position: relative;
+    left: -29px;
+}
 .Synthetic {
     background-color:#26282C;
     border:2px solid black;
