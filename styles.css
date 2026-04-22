@@ -307,3 +307,8 @@ gap: 20px;
     text-align: center;
     position: relative;
 }
+.content {
+max-width: 800px;
+margin: 0 auto;
+padding: 10px;
+}
