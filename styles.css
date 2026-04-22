@@ -312,3 +312,7 @@ max-width: 800px;
 margin: 0 auto;
 padding: 10px;
 }
+body{
+margin: 0;
+background: linear-gradient(#1f1f50, #272768);
+}
