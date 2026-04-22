@@ -272,3 +272,11 @@ gap: 20px;
     max-width:900px;
     text-align: center;
 }
+.up {
+position: relative;
+top: -15px;
+}
+.down {
+position: relative;
+top: 15px;
+}
