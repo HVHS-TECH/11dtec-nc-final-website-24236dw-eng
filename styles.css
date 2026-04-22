@@ -234,77 +234,69 @@ gap: 20px;
 .Play {
     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 
 }
 .Now {
-    background-color:#26282C;
+     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 
 }   
 .Positions {
-    background-color:#26282C;
+     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 
 }
 .Equipment {
     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 
 }
 .Rules {
-    background-color:#26282C;
+     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 
 }
 .WorldCup {
-    background-color:#26282C;
+     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 }
 .WorldCup2026 {
-    background-color:#26282C;
+     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 }
 .Winners {
     background-color:#26282C;
     border:2px solid black;
-    margin:20px;
+    margin:20px auto;
     padding:20px;
-    width:1800px;
+    max-width:900px;
     text-align: center;
-    position: relative;
 }
