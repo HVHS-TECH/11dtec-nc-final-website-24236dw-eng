@@ -106,20 +106,19 @@ gap: 20px;
 .box {
     background-color:#26282C;
     border:2px solid black;
+    margin:20px auto;
     padding:20px;
-    width:550px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    left: -29px;
+    width:900px;
+    text-align: center;
 }
 .Early {
-     background-color:#26282C;
+    background-color:#26282C;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
     max-width:900px;
-    text-align: center;
+    text-align: center;;
+   
 }
 .Richard {
     background-color:#26282C;
@@ -127,7 +126,8 @@ gap: 20px;
     margin:20px auto;
     padding:20px;
     max-width:900px;
-    text-align: center;}
+    text-align: center;
+}
 .Sphere {
     background-color:#26282C;
     border:2px solid black;
