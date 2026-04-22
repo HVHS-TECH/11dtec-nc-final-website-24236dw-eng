@@ -230,5 +230,35 @@ gap: 20px;
     position: relative;
     left: 309px;
 }
+.Play {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
+
+}
+.Now {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
+
+}   
+.Positions {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
+
+}
 
 
