@@ -101,6 +101,7 @@ a:active {
 display: flex;
 flex-wrap: wrap;
 gap: 20px;
+
 }
 .box {
     background-color:#26282C;
@@ -109,14 +110,14 @@ gap: 20px;
     padding:20px;
     width:900px;
     text-align: center;
+    gap: 10px;
 }
 .Early {
     background-color:#26282C;
     border:2px solid black;
     margin:20px ;
     padding:20px;
-    width:250px;    
-    margin-top: 0px;
+    width:250px;
 }
 .Richard {
     background-color:#26282C;
@@ -125,7 +126,6 @@ gap: 20px;
     padding:20px;
     width:250px;
     text-align: center;
-    margin-top: 60px;
 }
 .Sphere {
     background-color:#26282C;
@@ -134,18 +134,14 @@ gap: 20px;
     padding:20px;
     width:250px;
     text-align: center;
-    margin-top: 0px;
-
 }
 .Tango {
-    background-color:#26282C;
+     background-color:#26282C;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
-     margin-top: 60px;
-
 }
 .Synthetic {
      background-color:#26282C;
@@ -154,7 +150,6 @@ gap: 20px;
     padding:20px;
     width:250px;
     text-align: center;
-    margin-top: 0px;
 }
 .Modern {
      background-color:#26282C;
@@ -163,7 +158,6 @@ gap: 20px;
     padding:20px;
     width:250px;
     text-align: center;
-    margin-top: 60px;
 }
 .New {
     background-color:#26282C;
@@ -172,7 +166,6 @@ gap: 20px;
     padding:20px;
     width:250px;
     text-align: center;
-    margin-top: 0px;
 }
 .Premier 
 {
