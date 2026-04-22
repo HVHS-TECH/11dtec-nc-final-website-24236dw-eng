@@ -260,14 +260,50 @@ gap: 20px;
     position: relative;
 
 }
-.gk {
+.Equipment {
     background-color:#26282C;
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:1800px;
     text-align: center;
     position: relative;
-    left: 400px;
 
+}
+.Rules {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
+
+}
+.WorldCup {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
+}
+.WorldCup2026 {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
+}
+.Winners {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:1800px;
+    text-align: center;
+    position: relative;
 }
