@@ -97,12 +97,6 @@ a:hover {
 a:active {
   color: #FFF9FB;
 }
-.container {
-display: flex;
-flex-wrap: wrap;
-gap: 20px;
-
-}
 .box {
     background-color:#26282C;
     border:2px solid black;
@@ -113,59 +107,88 @@ gap: 20px;
     gap: 10px;
 }
 .Early {
-    background-color:#26282C;
-    border:2px solid black;
-    margin:20px ;
-    padding:20px;
-    width:250px;
-}
-.Richard {
-    background-color:#26282C;
+   background-color:#26282C;
+    color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
+}
+.Richard {
+   background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:250px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
 }
 .Sphere {
     background-color:#26282C;
+    color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
 }
 .Tango {
-     background-color:#26282C;
+    background-color:#26282C;
+    color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
 }
 .Synthetic {
-     background-color:#26282C;
+    background-color:#26282C;
+    color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
 }
 .Modern {
-     background-color:#26282C;
+   background-color:#26282C;
+    color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
 }
 .New {
     background-color:#26282C;
+    color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -200px;
 }
 .Premier 
 {
