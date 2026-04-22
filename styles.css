@@ -98,9 +98,6 @@ a:active {
   color: #FFF9FB;
 }
 .container {
-display: flex;
-flex-wrap: wrap;
-gap: 20px;
 position: relative;
 }
 .box {
@@ -113,15 +110,11 @@ position: relative;
 }
 .Early {
     background-color:#26282C;
-    color:white;
     border:2px solid black;
-    margin:20px;
+    margin:20px ;
     padding:20px;
-    width:300px;
-    text-align: center;
-    gap: 10px;
-    position: relative;
-    left: -29px;
+    width:250px;
+    left: 80px;
    
 }
 .Richard {
