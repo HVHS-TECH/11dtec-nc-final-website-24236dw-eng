@@ -2,7 +2,6 @@ head, body{
 background-color: #272768
 }
 
-
 h1{
 text-align: center;
 width : 100%;
@@ -114,18 +113,21 @@ position: relative;
 }
 .Early {
     background-color:#26282C;
+    color:white;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
-    width:250px;
+    width:300px;
     text-align: center;
-    left:-900px;
+    gap: 10px;
+    position: relative;
+    left: -29px;
    
 }
 .Richard {
     background-color:#26282C;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
@@ -133,7 +135,7 @@ position: relative;
 .Sphere {
     background-color:#26282C;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
@@ -141,7 +143,7 @@ position: relative;
 .Tango {
      background-color:#26282C;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
@@ -149,7 +151,7 @@ position: relative;
 .Synthetic {
      background-color:#26282C;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
@@ -157,7 +159,7 @@ position: relative;
 .Modern {
      background-color:#26282C;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
@@ -165,7 +167,7 @@ position: relative;
 .New {
     background-color:#26282C;
     border:2px solid black;
-    margin:20px auto;
+    margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
@@ -205,7 +207,8 @@ position: relative;
     padding:20px;
     max-width:900px;
     text-align: center;
-.Play {
+.Play 
+{
     background-color:#26282C;
     border:2px solid black;
     margin:20px auto;
