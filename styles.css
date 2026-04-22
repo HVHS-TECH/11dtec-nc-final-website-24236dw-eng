@@ -11,7 +11,8 @@ width : 100%;
 p {text-align: center;}
 
 .container{
-    position: relative;
+max-width:900px;
+margin: 0 auto;
 }
 .floating-img{
     position: fixed;
