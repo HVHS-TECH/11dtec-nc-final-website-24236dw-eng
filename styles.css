@@ -116,7 +116,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
-    left: -200px;
+    left: -210px;
 }
 .Richard {
    background-color:#26282C;
@@ -128,7 +128,7 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
-    left: -200px;
+    left: -60px;
 }
 .Sphere {
     background-color:#26282C;
@@ -140,7 +140,8 @@ a:active {
     text-align: center;
     gap: 10px;
     position: relative;
-    left: -200px;
+    left: 100px;
+    top: -800px;
 }
 .Tango {
     background-color:#26282C;
