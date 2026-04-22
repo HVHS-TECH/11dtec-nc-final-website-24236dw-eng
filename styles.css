@@ -116,8 +116,8 @@ gap: 20px;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
-    text-align: center;;
+    width:250px;
+    text-align: center;
    
 }
 .Richard {
@@ -125,7 +125,7 @@ gap: 20px;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
+    width:250px;
     text-align: center;
 }
 .Sphere {
@@ -133,7 +133,7 @@ gap: 20px;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
+    width:250px;
     text-align: center;
 }
 .Tango {
@@ -141,7 +141,7 @@ gap: 20px;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
+    width:250px;
     text-align: center;
 }
 .Synthetic {
@@ -149,7 +149,7 @@ gap: 20px;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
+    width:250px;
     text-align: center;
 }
 .Modern {
@@ -157,15 +157,15 @@ gap: 20px;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
+    width:250px;
     text-align: center;
 }
 .New {
-     background-color:#26282C;
+    background-color:#26282C;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    max-width:900px;
+    width:250px;
     text-align: center;
 }
 .Premier 
