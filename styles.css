@@ -130,7 +130,7 @@ gap: 20px;
     width:275px;
     text-align: center;
     position: relative;
-    left: -90px;
+    left: -160px;
     top: 430px;
 }
 .Sphere {
@@ -174,6 +174,7 @@ gap: 20px;
     text-align: center;
     position: relative;    
     left: 1400px;
+    top: -30px;
 }
 .New {
     background-color:#26282C;
