@@ -260,6 +260,14 @@ gap: 20px;
     position: relative;
 
 }
+.gk {
+    background-color:#26282C;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:200px;
+    text-align: center;
+    position: relative;
+    left: 400px;
 
-
-
+}
