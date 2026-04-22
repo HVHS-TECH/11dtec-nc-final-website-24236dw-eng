@@ -152,8 +152,8 @@ gap: 20px;
     width:275px;
     text-align: center;
     position: relative;
-    left: -29px;
-    top: 0px;top: 0px;
+    left: -309px;
+    top: 430px;
 }
 .Synthetic {
     background-color:#26282C;
@@ -172,8 +172,7 @@ gap: 20px;
     padding:20px;
     width:275px;
     text-align: center;
-    position: relative;
-    left: 400px;
+    position: relative;    
 }
 .New {
     background-color:#26282C;
