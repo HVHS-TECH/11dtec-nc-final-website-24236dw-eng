@@ -101,7 +101,6 @@ a:active {
 display: flex;
 flex-wrap: wrap;
 gap: 20px;
-position: relative;
 }
 .box {
     background-color:#26282C;
@@ -116,9 +115,8 @@ position: relative;
     border:2px solid black;
     margin:20px ;
     padding:20px;
-    width:250px;
-    left: 80px;
-   
+    width:250px;    
+    margin-top: 0px;
 }
 .Richard {
     background-color:#26282C;
@@ -127,6 +125,7 @@ position: relative;
     padding:20px;
     width:250px;
     text-align: center;
+    margin-top: 60px;
 }
 .Sphere {
     background-color:#26282C;
@@ -135,14 +134,18 @@ position: relative;
     padding:20px;
     width:250px;
     text-align: center;
+    margin-top: 0px;
+
 }
 .Tango {
-     background-color:#26282C;
+    background-color:#26282C;
     border:2px solid black;
     margin:20px;
     padding:20px;
     width:250px;
     text-align: center;
+     margin-top: 60px;
+
 }
 .Synthetic {
      background-color:#26282C;
@@ -151,6 +154,7 @@ position: relative;
     padding:20px;
     width:250px;
     text-align: center;
+    margin-top: 0px;
 }
 .Modern {
      background-color:#26282C;
@@ -159,6 +163,7 @@ position: relative;
     padding:20px;
     width:250px;
     text-align: center;
+    margin-top: 60px;
 }
 .New {
     background-color:#26282C;
@@ -167,6 +172,7 @@ position: relative;
     padding:20px;
     width:250px;
     text-align: center;
+    margin-top: 0px;
 }
 .Premier 
 {
