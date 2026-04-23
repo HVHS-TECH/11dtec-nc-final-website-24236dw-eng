@@ -23,8 +23,11 @@ margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    max-width: 200px;
-    margin: 0 auto;
+}
+.footballers-container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 nav{ 
 text-align: right;
@@ -53,7 +56,7 @@ color:#FFF9FB;
     left: -25px;
     height:500px;
 }
-.Footballers {
+.Footballer2 {
     background-color:#26282C;
     color:white;
     border:2px solid black;
@@ -66,7 +69,7 @@ color:#FFF9FB;
     left: -29px;
     height:500px;
 }
-.Footballerss {
+.Footballer3 {
     background-color:#26282C;
     color:white;
     border:2px solid black;
@@ -79,7 +82,7 @@ color:#FFF9FB;
     left: -29px;
     height:500px;
 }
-    .Footballersss {
+    .Footballer4 {
     background-color:#26282C;
     color:white;
     border:2px solid black;
@@ -92,19 +95,20 @@ color:#FFF9FB;
     left: -29px;
     height:500px;
 }
-.Footballerssss {
+.Footballer5 {
     background-color:#26282C;
     color:white;
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:300px;
+    width:250px;
     text-align: center;
     gap: 10px;
     position: relative;
-    left: -29px;
+    left: -25px;
     height:500px;
 }
+.foot
 a:link {
     color: #308CC6;
 }
