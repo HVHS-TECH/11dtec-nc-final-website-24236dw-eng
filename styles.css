@@ -22,10 +22,8 @@ margin: 0 auto;
 .footballers-container {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    display: flex;
-    flew-wrap: nowrap;
-    overflow-x: auto;
+    flex-wrap: nowrap;
+    gap: 20px;
 }
 nav{ 
 text-align: right;
