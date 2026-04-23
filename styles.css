@@ -22,7 +22,6 @@ margin: 0 auto;
 .footballers-container {
     display: flex;
     justify-content: space-between;
-    flex-wrap: nowrap;
     gap: 20px;
 }
 nav{ 
