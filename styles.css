@@ -10,7 +10,7 @@ width : 100%;
 p {text-align: center;}
 
 .container{
-max-width:1000px;
+max-width:1100px;
 margin: 0 auto;
 }
 .floating-img{
@@ -62,7 +62,6 @@ color:#FFF9FB;
     position: relative;
     left: -29px;
     height:500px;
-
 }
 .Footballerss {
     background-color:#26282C;
@@ -76,7 +75,6 @@ color:#FFF9FB;
     position: relative;
     left: -29px;
     height:500px;
-
 }
     .Footballersss {
     background-color:#26282C;
@@ -116,7 +114,7 @@ a:active {
     border:2px solid black;
     margin:20px auto;
     padding:20px;
-    width:900px;
+    width:1100px;
     text-align: center;
     gap: 10px;
 }
@@ -126,7 +124,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .Richard {
    background-color:#26282C;
@@ -134,7 +132,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .Sphere {
     background-color:#26282C;
@@ -142,7 +140,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .Tango {
     background-color:#26282C;
@@ -150,7 +148,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .Synthetic {
     background-color:#26282C;
@@ -158,7 +156,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .Modern {
    background-color:#26282C;
@@ -166,7 +164,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .New {
     background-color:#26282C;
@@ -174,7 +172,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:250px;
 }
 .Premier 
 {
@@ -267,7 +265,7 @@ a:active {
     text-align: center;
 }
 .WorldCup2026 {
-     background-color:#26282C;
+    background-color:#26282C;
     border:2px solid black;
     margin:20px auto;
     padding:20px;
