@@ -9,10 +9,6 @@ width : 100%;
 
 p {text-align: center;}
 
-.container{
-max-width:1200px;
-margin: 0 auto;
-}
 .floating-img{
     position: fixed;
     top: -10px;
