@@ -20,9 +20,6 @@ margin: 0 auto;
     z-index: 999;
 }
 .footballers-container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: nowrap;
     gap: 20px;
 }
 nav{ 
