@@ -120,6 +120,8 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -210px;
+    height: 360px;                                                                                                        
+
 }
 .Richard {
    background-color:#26282C;
@@ -132,6 +134,8 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -60px;
+    height: 360px;                                                                                                        
+
 }
 .Sphere {
     background-color:#26282C;
@@ -144,7 +148,8 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: 100px;
-    top: -800px;                                                                                                            
+    top: -850px;    
+    height: 360px;                                                                                                        
 }
 .Tango {
     background-color:#26282C;
@@ -157,6 +162,7 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -200px;
+    height: 360px;
 }
 .Synthetic {
     background-color:#26282C;
@@ -169,6 +175,7 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -200px;
+     height: 360px;
 }
 .Modern {
    background-color:#26282C;
@@ -181,6 +188,7 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -200px;
+    height: 360px;
 }
 .New {
     background-color:#26282C;
@@ -193,6 +201,7 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -200px;
+    height: 360px;
 }
 .Premier 
 {
