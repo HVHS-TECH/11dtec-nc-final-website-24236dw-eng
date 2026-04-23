@@ -97,6 +97,13 @@ a:hover {
 a:active {
   color: #FFF9FB;
 }
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+}
 .box {
     background-color:#26282C;
     border:2px solid black;
@@ -113,8 +120,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .Richard {
    background-color:#26282C;
@@ -123,8 +128,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .Sphere {
     background-color:#26282C;
@@ -133,8 +136,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .Tango {
     background-color:#26282C;
@@ -143,8 +144,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .Synthetic {
     background-color:#26282C;
@@ -153,8 +152,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .Modern {
    background-color:#26282C;
@@ -163,8 +160,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .New {
     background-color:#26282C;
@@ -173,8 +168,6 @@ a:active {
     margin:20px;
     padding:20px;
     width:250px;
-    text-align: center;
-    gap: 10px;
 }
 .Premier 
 {
