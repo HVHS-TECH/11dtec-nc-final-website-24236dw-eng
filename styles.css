@@ -27,8 +27,10 @@ margin: 0 auto;
 }
 .footballers-conatiner2 {
     display: flex;
-    justify-content: left;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 10px;
+    width: 100%;
 }
 nav{ 
 text-align: right;
