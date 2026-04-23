@@ -121,6 +121,19 @@ color:#FFF9FB;
     left: -25px;
     height:520px;
 }
+.Footballer7 {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:250px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -25px;
+    height:520px;
+}
 .foot
 a:link {
     color: #308CC6;
