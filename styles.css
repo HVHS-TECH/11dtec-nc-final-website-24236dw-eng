@@ -28,7 +28,7 @@ margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-wrap: nowrap;
+    gap: 20px;
 }
 nav{ 
 text-align: right;
