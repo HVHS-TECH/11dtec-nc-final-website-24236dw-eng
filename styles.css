@@ -88,7 +88,19 @@ color:#FFF9FB;
     position: relative;
     left: -29px;
     height:500px;
-
+}
+.Footballerssss {
+    background-color:#26282C;
+    color:white;
+    border:2px solid black;
+    margin:20px;
+    padding:20px;
+    width:300px;
+    text-align: center;
+    gap: 10px;
+    position: relative;
+    left: -29px;
+    height:500px;
 }
 a:link {
     color: #308CC6;
