@@ -48,6 +48,7 @@ color:#FFF9FB;
     gap: 10px;
     position: relative;
     left: -25px;
+    height:500px;
 }
 .Footballers {
     background-color:#26282C;
@@ -60,6 +61,8 @@ color:#FFF9FB;
     gap: 10px;
     position: relative;
     left: -29px;
+    height:500px;
+
 }
 .Footballerss {
     background-color:#26282C;
@@ -72,6 +75,8 @@ color:#FFF9FB;
     gap: 10px;
     position: relative;
     left: -29px;
+    height:500px;
+
 }
     .Footballersss {
     background-color:#26282C;
@@ -84,6 +89,8 @@ color:#FFF9FB;
     gap: 10px;
     position: relative;
     left: -29px;
+     height:500px;
+
 }
 a:link {
     color: #308CC6;
