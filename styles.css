@@ -97,6 +97,9 @@ a:hover {
 a:active {
   color: #FFF9FB;
 }
+.container{
+align-items: stretch;
+}
 .box {
     background-color:#26282C;
     border:2px solid black;
@@ -166,7 +169,6 @@ a:active {
     gap: 10px;
     position: relative;
     left: -200px;
-    top:
 }
 .Modern {
    background-color:#26282C;
