@@ -24,6 +24,11 @@ margin: 0 auto;
     justify-content: space-between;
     gap: 20px;
 }
+.footballers-conatiner2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
 nav{ 
 text-align: right;
 color:#308CC6;
