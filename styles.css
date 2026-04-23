@@ -21,13 +21,6 @@ p {text-align: center;}
     gap: 5px;
     flex-wrap: wrap;
 }
-.footballers-conatiner2 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    width: 100%;
-}
 nav{ 
 text-align: right;
 color:#308CC6;
