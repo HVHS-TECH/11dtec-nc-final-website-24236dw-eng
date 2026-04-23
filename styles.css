@@ -156,7 +156,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:195px;
 }
 .Modern {
    background-color:#26282C;
@@ -164,7 +164,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:195px;
 }
 .New {
     background-color:#26282C;
@@ -172,7 +172,8 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:195px;
+    right: 20px[];
 }
 .Premier 
 {
