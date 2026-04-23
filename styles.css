@@ -108,7 +108,7 @@ a:active {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 20px;
+    gap: 10px;
     padding: 20px;
 }
 .box {
@@ -134,7 +134,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:100px;
 }
 .Sphere {
     background-color:#26282C;
@@ -142,7 +142,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:200px;
+    width:100px;
 }
 .Tango {
     background-color:#26282C;
@@ -150,7 +150,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:150px;
 }
 .Synthetic {
     background-color:#26282C;
@@ -158,7 +158,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:150px;
 }
 .Modern {
    background-color:#26282C;
@@ -166,7 +166,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:150px;
 }
 .New {
     background-color:#26282C;
@@ -174,7 +174,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:250px;
+    width:150px;
 }
 .Premier 
 {
