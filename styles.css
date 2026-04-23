@@ -141,7 +141,7 @@ a:active {
     gap: 10px;
     position: relative;
     left: 100px;
-    top: -800px;
+    top:                                                                                                                  -800px;
 }
 .Tango {
     background-color:#26282C;
@@ -166,6 +166,7 @@ a:active {
     gap: 10px;
     position: relative;
     left: -200px;
+    top:
 }
 .Modern {
    background-color:#26282C;
