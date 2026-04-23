@@ -10,7 +10,7 @@ width : 100%;
 p {text-align: center;}
 
 .container{
-max-width:900px;
+max-width:1000px;
 margin: 0 auto;
 }
 .floating-img{
@@ -134,7 +134,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:100px;
+    width:200px;
 }
 .Sphere {
     background-color:#26282C;
@@ -142,7 +142,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:100px;
+    width:200px;
 }
 .Tango {
     background-color:#26282C;
@@ -150,7 +150,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:150px;
+    width:200px;
 }
 .Synthetic {
     background-color:#26282C;
@@ -158,7 +158,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:150px;
+    width:200px;
 }
 .Modern {
    background-color:#26282C;
@@ -166,7 +166,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:150px;
+    width:200px;
 }
 .New {
     background-color:#26282C;
@@ -174,7 +174,7 @@ a:active {
     border:2px solid black;
     margin:20px;
     padding:20px;
-    width:300px;
+    width:200px;
 }
 .Premier 
 {
