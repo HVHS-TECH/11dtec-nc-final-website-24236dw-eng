@@ -161,7 +161,8 @@ align-items: stretch;
     text-align: center;
     gap: 10px;
     position: relative;
-    left: -200px;
+    left: 250px;
+    top:-849px;
     height: 360px;
 }
 .Synthetic {
@@ -175,7 +176,8 @@ align-items: stretch;
     gap: 10px;
     position: relative;
     left: -200px;
-     height: 360px;
+    top: 0px;
+    height: 360px;
 }
 .Modern {
    background-color:#26282C;
