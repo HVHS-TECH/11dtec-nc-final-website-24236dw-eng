@@ -23,12 +23,9 @@ margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-}
-.footballers-container2 {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
+    flew-wrap: nowrap;
+    overflow-x: auto;
 }
 nav{ 
 text-align: right;
