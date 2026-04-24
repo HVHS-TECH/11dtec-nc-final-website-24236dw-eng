@@ -22,9 +22,15 @@ p {text-align: center;}
     flex-wrap: wrap;
 }
 nav{ 
+margin: 0 15px;
+text-decoration: none;
 text-align: right;
 color:#308CC6;
 }
+nav a:hover {
+    color: #00ffcc;
+}
+
 h1 {
 color:#FFF9FB;
 }
