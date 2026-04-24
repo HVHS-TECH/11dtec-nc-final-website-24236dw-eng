@@ -12,6 +12,7 @@ width : 100%;
 p {text-align: center;}
 
 .floating-img{
+    position: fixed;
     top: -10px;
     left: -110px;
     z-index: 999;
