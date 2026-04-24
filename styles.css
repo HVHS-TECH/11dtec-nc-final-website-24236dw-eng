@@ -364,13 +364,6 @@ margin-left: 1130px;
 margin-top: -150px;
 }
 .cta{
-display: inline-block;
-background-color:#00ffcc;
-color:black;
-padding: 15px 30px;
-font-size:1.3rem;
-font-weight: bold;
-border-radius: 8px;
-text-decoration: none;
-transition: 0.2s ease;
+position: relative;
+z-index: 999;
 }
