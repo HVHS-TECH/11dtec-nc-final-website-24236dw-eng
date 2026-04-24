@@ -363,3 +363,9 @@ margin-top: -650px;
 margin-left: 1130px;
 margin-top: -150px;
 }
+.cta{
+background-color:#00ffcc;
+padding: 18px 40px;
+font-size:1.3rem;
+font-weight: bold;
+}
