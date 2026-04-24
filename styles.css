@@ -363,3 +363,19 @@ margin-top: -650px;
 margin-left: 1130px;
 margin-top: -150px;
 }
+.gallery {
+    text-align: center;
+    margin: 40px;
+}
+.gallery h2 {
+    color: #FFF9FB;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+.gallery img {
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    border: 10px solid black;
+    object-fit: cover;
+}
