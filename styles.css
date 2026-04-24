@@ -1,13 +1,13 @@
 head, body{ 
-background-color: #272768
-
+background-color: #272768;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
 }
-
 h1{
 text-align: center;
 width : 100%;
 }
-
 p {text-align: center;}
 
 .floating-img{
