@@ -1,8 +1,9 @@
 head, body{ 
 background-color: #272768;
-min-height: 100vh;
-display: flex;
-flex-direction: column;
+}
+.footer {
+    margin-top: 300px;
+    text-align: center;
 }
 h1{
 text-align: center;
